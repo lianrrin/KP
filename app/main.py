@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 from fastapi import FastAPI, UploadFile, File
 from starlette.middleware.cors import CORSMiddleware
-from service import get_human_number
+from app.service import get_human_number
 
 app = FastAPI()
 
