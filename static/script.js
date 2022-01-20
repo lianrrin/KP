@@ -72,7 +72,7 @@ $(document).ready(function() {
          alert('Неподдерживаемый файл');
       }
 
-      return await fetch('http://127.0.0.1:8000/', {
+      return await fetch('/', {
          method: 'POST',
          body: form,
       })
