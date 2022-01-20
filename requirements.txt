@@ -21,7 +21,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.1
 python-multipart==0.0.5
 PyWavelets==1.1.1
-scikit-image==git commit -m "Init project"
+scikit-image==0.17.2
 scikit-learn==0.23.1
 scipy==1.4.1
 six==1.15.0
