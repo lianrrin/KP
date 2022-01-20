@@ -23,7 +23,7 @@ python-multipart==0.0.5
 PyWavelets==1.1.1
 scikit-image== 0.19.1
 scikit-learn==0.23.1
-scipy==1.4.1
+scipy==1.8.0rc2
 six==1.15.0
 starlette==0.13.2
 threadpoolctl==2.1.0
